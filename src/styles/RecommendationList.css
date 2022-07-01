@@ -1,0 +1,11 @@
+.more{
+    float:right;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #2F6CE5;
+}

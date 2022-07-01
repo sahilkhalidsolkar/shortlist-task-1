@@ -1,0 +1,36 @@
+.location{
+    color:black;
+}
+.location_container{
+    display:flex;
+    justify-content: space-between;
+    /* align-items: baseline; */
+    margin-top: 2rem;
+}
+.underline{
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #B8B8B8;
+    margin-top:-10px
+
+}
+.fa-pen{
+    font-size: 1.3rem;
+    color: black;
+}
+.fa-circle-info{
+    margin-right: 10px;
+    align-self: flex-start;
+    margin-top: 5px;
+}
+.location_info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+    opacity: 0.5;
+}

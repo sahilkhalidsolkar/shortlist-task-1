@@ -1,0 +1,44 @@
+.profile_name{
+
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    margin-left: 10px;
+    color: #000000;
+}
+.other_details{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profile_details{
+display: flex;
+justify-content: space-evenly;
+width:40%;
+font-size: 0.9rem;
+}
+.share_button{
+    background-color: #EDEEF0;
+    border-radius: 5px;
+    border: none;
+    padding:5px;
+    width:2.6rem;
+    
+
+}
+.fa-share-nodes{
+    font-size: 1.3rem;
+    
+}
+.short_details{
+    color:black;
+    font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+width:50%;
+}
+.short_details_container{
+    display:flex;
+    align-items: center;
+    
+}
